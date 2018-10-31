@@ -1,7 +1,6 @@
 <h1>Daily_Weather
 <h1>오늘의 날씨?
 
--
 <h3>Team Daily_Weather from LikeLion SMU
 
 <h4>오늘의 날씨? : 사용자가 주로 거주하는 지역구와 그 지역구를 방문하는 시민들에게 날씨 정보 및 옷차림을 공유하는 어플리케이션.
